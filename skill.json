@@ -1,26 +1,23 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
           "summary": "Spend some time coming up with an interesting, succinct description.",
           "examplePhrases": [
-            "Alexa open Minecraft Helper",
-            "Alexa ask Minecraft Helper what's the recipe for a chest",
-            "Alexa ask Minecraft Helper how do I get a map"
+            "Alexa open Cube First-aider",
+            "Alexa ask Cube First-aider about burns",
+            "Alexa ask Cube First-aider how do I treat a burn"
           ],
           "keywords": [
-            "Minecraft",
-            "game"
+            "first-aid",
+            "emergency"
           ],
-          "name": "Minecraft Helper",
+          "name": "Cube First-aider",
           "description": "Sample Full Description"
         },
-        "de-DE": {
-          "name": "Assistent für Minecraft in Deutsch"
-        },
         "en-GB": {
-          "name": "British Minecraft Helper"
+          "name": "Cube First-aider"
         }
       },
       "isAvailableWorldwide": true,
