@@ -53,7 +53,6 @@ const RecipeHandler = {
       sessionAttributes.speakOutput = recipe;
       //sessionAttributes.repromptSpeech = requestAttributes.t('RECIPE_REPEAT_MESSAGE');
       handlerInput.attributesManager.setSessionAttributes(sessionAttributes);
-      console.log(recipe);
 
       return handlerInput.responseBuilder
         .speak(sessionAttributes.speakOutput) // .reprompt(sessionAttributes.repromptSpeech)

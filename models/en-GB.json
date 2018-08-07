@@ -4,7 +4,7 @@
       "invocationName": "cube first aider",
       "intents": [
         {
-          "name": "treatmentIntent",
+          "name": "RecipeIntent",
           "slots": [
             {
               "name": "Item",
@@ -83,7 +83,7 @@
             "how to treat an {Item}",
             "how to heal a {Item}",
             "how to heal an {Item}",
-            "how to heal {Item}",
+            "how to heal {Item}"
           ]
         },
         {
@@ -104,12 +104,12 @@
           "values": [
             {
               "name": {
-                "value": "burn"
+                "value": "boop"
               }
             },
             {
               "name": {
-                "value": "bruise"
+                "value": "burn"
               }
             },
             {

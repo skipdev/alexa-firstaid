@@ -23,10 +23,10 @@
             "eTag": "c5f01fe28dd596bdb009fc771418c325"
           },
           "en-GB": {
-            "eTag": "fb1481de89462b364ba7c02c37982bc2"
+            "eTag": "4d98569bde587d869204b8410f845ebe"
           },
           "en-US": {
-            "eTag": "fb1481de89462b364ba7c02c37982bc2"
+            "eTag": "4d98569bde587d869204b8410f845ebe"
           }
         },
         "lambda": [
@@ -37,7 +37,7 @@
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "0ee32f38-c323-4b37-9d66-785e6391d3ef"
+            "revisionId": "857997bf-f634-43bc-9837-c46eaa7f80d5"
           }
         ]
       }
